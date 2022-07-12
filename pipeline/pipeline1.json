@@ -54,6 +54,7 @@
 							"name": "Set variable1",
 							"type": "SetVariable",
 							"dependsOn": [],
+							"userProperties": [],
 							"typeProperties": {
 								"variableName": "filename",
 								"value": {
